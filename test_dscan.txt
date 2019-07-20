@@ -1,0 +1,9 @@
+35833	J162205 - Arcadia Fleet Issue	Fortizar	0 m
+35826	J162205 - Warburtons	Azbel	1,130 km
+35825	J162205 - PI Palace	Raitaru	1,169 km
+35833	J162205 - Matthew Atlas	Fortizar	1,191 km
+35832	J162205 - Origin Fleet Issue	Astrahus	1,206 km
+35826	J162205 - Maanensteck	Azbel	1,627 km
+35825	J162205 - Stuffatron	Raitaru	1,900 km
+35832	J162205 - Pandora Fleet Issue	Astrahus	14.3 AU
+35825	J162205 - Greggs	Raitaru	14.3 AU

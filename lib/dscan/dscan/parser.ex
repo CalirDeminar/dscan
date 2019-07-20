@@ -4,7 +4,14 @@ defmodule Dscan.Parser do
     |> String.replace("\r", "")
     |> String.split("\n")
     |> Enum.map(fn element -> String.split(element, "\t") end)
-    |> Enum.map(fn element -> %{icon: Enum.at(element, 0), name: Enum.at(element, 1), type: Enum.at(element, 2), range: Enum.at(element, 3)} end)
+    |> Enum.map(fn element ->
+      %{
+        icon: Enum.at(element, 0),
+        name: Enum.at(element, 1),
+        type: Enum.at(element, 2),
+        range: Enum.at(element, 3)
+      }
+    end)
   end
 
   def test() do

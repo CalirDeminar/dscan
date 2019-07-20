@@ -2,222 +2,92 @@
     {
         "ships": [
             {
-                "name": "Moros Interbus Edition",
-                "id": 34339,
+                "name": "Deacon",
+                "id": 37457,
                 "category": "inventory_type"
             },
             {
-                "name": "Naglfar Justice Edition",
-                "id": 34341,
+                "name": "Kirin",
+                "id": 37458,
                 "category": "inventory_type"
             },
             {
-                "name": "Phoenix Wiyrkomi Edition",
-                "id": 34343,
+                "name": "Thalia",
+                "id": 37459,
                 "category": "inventory_type"
             },
             {
-                "name": "Revelation",
-                "id": 19720,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Revelation Sarum Edition",
-                "id": 34345,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Naglfar",
-                "id": 19722,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Moros",
-                "id": 19724,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Phoenix",
-                "id": 19726,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Caiman",
-                "id": 45647,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vehement",
-                "id": 42124,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Chemosh",
-                "id": 42243,
+                "name": "Scalpel",
+                "id": 37460,
                 "category": "inventory_type"
             }
         ],
-        "name": "Dreadnought"
+        "name": "Logistics Frigate"
     },
     {
         "ships": [
             {
-                "name": "Hel",
-                "id": 22852,
+                "name": "Rorqual",
+                "id": 28352,
                 "category": "inventory_type"
             },
             {
-                "name": "Nyx",
-                "id": 23913,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Nation",
-                "id": 3628,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Wyvern",
-                "id": 23917,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Aeon",
-                "id": 23919,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vendetta",
-                "id": 42125,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Revenant",
-                "id": 3514,
+                "name": "Rorqual ORE Development Edition",
+                "id": 33687,
                 "category": "inventory_type"
             }
         ],
-        "name": "Supercarrier"
+        "name": "Capital Industrial Ship"
     },
     {
         "ships": [
             {
-                "name": "Manticore",
-                "id": 12032,
+                "name": "'Moreau' Fortizar",
+                "id": 47512,
                 "category": "inventory_type"
             },
             {
-                "name": "Nemesis",
-                "id": 11377,
+                "name": "Upwell Palatine Keepstar",
+                "id": 40340,
                 "category": "inventory_type"
             },
             {
-                "name": "Hound",
-                "id": 12034,
+                "name": "'Draccous' Fortizar",
+                "id": 47513,
                 "category": "inventory_type"
             },
             {
-                "name": "Virtuoso",
-                "id": 45530,
+                "name": "Astrahus",
+                "id": 35832,
                 "category": "inventory_type"
             },
             {
-                "name": "Purifier",
-                "id": 12038,
+                "name": "Fortizar",
+                "id": 35833,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Keepstar",
+                "id": 35834,
+                "category": "inventory_type"
+            },
+            {
+                "name": "'Marginis' Fortizar",
+                "id": 47515,
+                "category": "inventory_type"
+            },
+            {
+                "name": "'Prometheus' Fortizar",
+                "id": 47516,
+                "category": "inventory_type"
+            },
+            {
+                "name": "'Horizon' Fortizar",
+                "id": 47514,
                 "category": "inventory_type"
             }
         ],
-        "name": "Stealth Bomber"
-    },
-    {
-        "ships": [
-            {
-                "name": "Hulk",
-                "id": 22544,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Skiff",
-                "id": 22546,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Mackinaw ORE Development Edition",
-                "id": 33683,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Mackinaw",
-                "id": 22548,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Exhumer"
-    },
-    {
-        "ships": [
-            {
-                "name": "Molok",
-                "id": 42241,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vanquisher",
-                "id": 42126,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Avatar",
-                "id": 11567,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Komodo",
-                "id": 45649,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Leviathan",
-                "id": 3764,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ragnarok",
-                "id": 23773,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Erebus",
-                "id": 671,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Titan"
-    },
-    {
-        "ships": [
-            {
-                "name": "Sabre",
-                "id": 22456,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Eris",
-                "id": 22460,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Flycatcher",
-                "id": 22464,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Heretic",
-                "id": 22452,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Interdictor"
+        "name": "Citadel"
     },
     {
         "ships": [
@@ -317,632 +187,137 @@
     {
         "ships": [
             {
-                "name": "Aliastra Catalyst",
-                "id": 32848,
+                "name": "Moros Interbus Edition",
+                "id": 34339,
                 "category": "inventory_type"
             },
             {
-                "name": "InterBus Catalyst",
-                "id": 32840,
+                "name": "Naglfar Justice Edition",
+                "id": 34341,
                 "category": "inventory_type"
             },
             {
-                "name": "Inner Zone Shipping Catalyst",
-                "id": 32844,
+                "name": "Phoenix Wiyrkomi Edition",
+                "id": 34343,
                 "category": "inventory_type"
             },
             {
-                "name": "Intaki Syndicate Catalyst",
-                "id": 32842,
+                "name": "Revelation",
+                "id": 19720,
                 "category": "inventory_type"
             },
             {
-                "name": "Nefantar Thrasher",
-                "id": 33099,
+                "name": "Revelation Sarum Edition",
+                "id": 34345,
                 "category": "inventory_type"
             },
             {
-                "name": "Coercer",
-                "id": 16236,
+                "name": "Naglfar",
+                "id": 19722,
                 "category": "inventory_type"
             },
             {
-                "name": "Talwar",
-                "id": 32878,
+                "name": "Moros",
+                "id": 19724,
                 "category": "inventory_type"
             },
             {
-                "name": "Cormorant",
-                "id": 16238,
+                "name": "Phoenix",
+                "id": 19726,
                 "category": "inventory_type"
             },
             {
-                "name": "Sunesis",
-                "id": 42685,
+                "name": "Caiman",
+                "id": 45647,
                 "category": "inventory_type"
             },
             {
-                "name": "Catalyst",
-                "id": 16240,
+                "name": "Vehement",
+                "id": 42124,
                 "category": "inventory_type"
             },
             {
-                "name": "Algos",
-                "id": 32872,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Thrasher",
-                "id": 16242,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Quafe Catalyst",
-                "id": 32846,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Corax",
-                "id": 32876,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Coercer Blood Raiders Edition",
-                "id": 33879,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Kikimora",
-                "id": 49710,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Cormorant Guristas Edition",
-                "id": 33881,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Thrasher Thukker Tribe Edition",
-                "id": 33883,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Dragoon",
-                "id": 32874,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Catalyst Serpentis Edition",
-                "id": 33877,
+                "name": "Chemosh",
+                "id": 42243,
                 "category": "inventory_type"
             }
         ],
-        "name": "Destroyer"
+        "name": "Dreadnought"
     },
     {
         "ships": [
             {
-                "name": "Porpoise",
-                "id": 42244,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Orca ORE Development Edition",
-                "id": 33685,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Orca",
-                "id": 28606,
+                "name": "Monitor",
+                "id": 45534,
                 "category": "inventory_type"
             }
         ],
-        "name": "Industrial Command Ship"
+        "name": "Flag Cruiser"
     },
     {
         "ships": [
             {
-                "name": "Tengu",
-                "id": 29984,
+                "name": "Rabisu",
+                "id": 42245,
                 "category": "inventory_type"
             },
             {
-                "name": "Legion",
-                "id": 29986,
+                "name": "Zarmazd",
+                "id": 49713,
                 "category": "inventory_type"
             },
             {
-                "name": "Proteus",
-                "id": 29988,
+                "name": "Scimitar",
+                "id": 11978,
                 "category": "inventory_type"
             },
             {
-                "name": "Loki",
-                "id": 29990,
+                "name": "Basilisk",
+                "id": 11985,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Guardian",
+                "id": 11987,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Oneiros",
+                "id": 11989,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Etana",
+                "id": 32790,
                 "category": "inventory_type"
             }
         ],
-        "name": "Strategic Cruiser"
+        "name": "Logistics"
     },
     {
         "ships": [
             {
-                "name": "Arazu",
-                "id": 11969,
+                "name": "Anshar",
+                "id": 28848,
                 "category": "inventory_type"
             },
             {
-                "name": "Enforcer",
-                "id": 44995,
+                "name": "Ark",
+                "id": 28850,
                 "category": "inventory_type"
             },
             {
-                "name": "Chameleon",
-                "id": 33675,
+                "name": "Rhea",
+                "id": 28844,
                 "category": "inventory_type"
             },
             {
-                "name": "Moracha",
-                "id": 33395,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Falcon",
-                "id": 11957,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Rapier",
-                "id": 11963,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Pilgrim",
-                "id": 11965,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Victor",
-                "id": 45531,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Tiamat",
-                "id": 48635,
+                "name": "Nomad",
+                "id": 28846,
                 "category": "inventory_type"
             }
         ],
-        "name": "Force Recon Ship"
-    },
-    {
-        "ships": [
-            {
-                "name": "Retribution",
-                "id": 11393,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Dagger",
-                "id": 12036,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vengeance",
-                "id": 11365,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Jaguar",
-                "id": 11400,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ishkur",
-                "id": 12042,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Wolf",
-                "id": 11371,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Enyo",
-                "id": 12044,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Blade",
-                "id": 11373,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Erinye",
-                "id": 11375,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Utu",
-                "id": 2834,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Hawk",
-                "id": 11379,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Cambion",
-                "id": 32788,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Harpy",
-                "id": 11381,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Gatherer",
-                "id": 11383,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Nergal",
-                "id": 52250,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Freki",
-                "id": 32207,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Malice",
-                "id": 3516,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Kishar",
-                "id": 11389,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Assault Frigate"
-    },
-    {
-        "ships": [
-            {
-                "name": "Kitsune",
-                "id": 11194,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Hyena",
-                "id": 11387,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Sentinel",
-                "id": 11190,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Keres",
-                "id": 11174,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Electronic Attack Ship"
-    },
-    {
-        "ships": [
-            {
-                "name": "Occator",
-                "id": 12745,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Bustard",
-                "id": 12731,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Mastodon",
-                "id": 12747,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Impel",
-                "id": 12753,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Deep Space Transport"
-    },
-    {
-        "ships": [
-            {
-                "name": "Ashimmu",
-                "id": 17922,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Guardian-Vexor",
-                "id": 11011,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vexor Quafe Edition",
-                "id": 34445,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Caracal Wiyrkomi Edition",
-                "id": 33645,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stratios Emergency Responder",
-                "id": 33553,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Scythe Fleet Issue",
-                "id": 29336,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Augoror Navy Issue",
-                "id": 29337,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Orthrus",
-                "id": 33818,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stabber Nefantar Edition",
-                "id": 33647,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Osprey Navy Issue",
-                "id": 29340,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Victorieux Luxury Yacht",
-                "id": 34590,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Exequror Navy Issue",
-                "id": 29344,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Maller",
-                "id": 624,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vedmak",
-                "id": 47270,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stabber Krusual Edition",
-                "id": 33649,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Thorax Aliastra Edition",
-                "id": 33651,
-                "category": "inventory_type"
-            },
-            {
-                "name": "毒蜥级YC117年特别版",
-                "id": 34475,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Omen Navy Issue",
-                "id": 17709,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Rodiva",
-                "id": 49712,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stabber Fleet Issue",
-                "id": 17713,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Gila",
-                "id": 17715,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Phantasm",
-                "id": 17718,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Cynabal",
-                "id": 17720,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vigilant",
-                "id": 17722,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stratios",
-                "id": 33470,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Thorax Inner Zone Shipping Edition",
-                "id": 33653,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vexor Navy Issue",
-                "id": 17843,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Test Site Maller",
-                "id": 52267,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Omen",
-                "id": 2006,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Opux Dragoon Yacht",
-                "id": 25560,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Caracal Navy Issue",
-                "id": 17634,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Omen Kador Edition",
-                "id": 33639,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Omen Tash-Murkon Edition",
-                "id": 33641,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Caracal Nugoeihuvi Edition",
-                "id": 33643,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Osprey",
-                "id": 620,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Caracal",
-                "id": 621,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stabber",
-                "id": 622,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Moa",
-                "id": 623,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Concord Police Cruiser",
-                "id": 1904,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Augoror",
-                "id": 625,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vexor",
-                "id": 626,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Thorax",
-                "id": 627,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Arbitrator",
-                "id": 628,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Rupture",
-                "id": 629,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Bellicose",
-                "id": 630,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Scythe",
-                "id": 631,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Blackbird",
-                "id": 632,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Celestis",
-                "id": 633,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Exequror",
-                "id": 634,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Opux Luxury Yacht",
-                "id": 635,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Cruiser"
-    },
-    {
-        "ships": [
-            {
-                "name": "Bowhead",
-                "id": 34328,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Charon",
-                "id": 20185,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Obelisk",
-                "id": 20187,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Fenrir",
-                "id": 20189,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Providence",
-                "id": 20183,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Freighter"
+        "name": "Jump Freighter"
     },
     {
         "ships": [
@@ -1337,281 +712,6 @@
     {
         "ships": [
             {
-                "name": "Astarte",
-                "id": 22466,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Claymore",
-                "id": 22468,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Nighthawk",
-                "id": 22470,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Eos",
-                "id": 22442,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Sleipnir",
-                "id": 22444,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vulture",
-                "id": 22446,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Absolution",
-                "id": 22448,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Damnation",
-                "id": 22474,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Command Ship"
-    },
-    {
-        "ships": [
-            {
-                "name": "Devoter",
-                "id": 12017,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Fiend",
-                "id": 35781,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Onyx",
-                "id": 11995,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Broadsword",
-                "id": 12013,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Phobos",
-                "id": 12021,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Heavy Interdiction Cruiser"
-    },
-    {
-        "ships": [
-            {
-                "name": "Zealot",
-                "id": 12003,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ishtar",
-                "id": 12005,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Eagle",
-                "id": 12011,
-                "category": "inventory_type"
-            },
-            {
-                "name": "银鹰级YC117年特别版",
-                "id": 34477,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Muninn",
-                "id": 12015,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Mimir",
-                "id": 32209,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Sacrilege",
-                "id": 12019,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Adrestia",
-                "id": 2836,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Deimos",
-                "id": 12023,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Cerberus",
-                "id": 11993,
-                "category": "inventory_type"
-            },
-            {
-                "name": "伊什塔级YC117年特别版",
-                "id": 34479,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ikitursa",
-                "id": 52252,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vangel",
-                "id": 3518,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vagabond",
-                "id": 11999,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Heavy Assault Cruiser"
-    },
-    {
-        "ships": [
-            {
-                "name": "Taranis",
-                "id": 11200,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ares",
-                "id": 11202,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Imp",
-                "id": 35779,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Crow",
-                "id": 11176,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Whiptail",
-                "id": 33673,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Raptor",
-                "id": 11178,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Crusader",
-                "id": 11184,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Malediction",
-                "id": 11186,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Claw",
-                "id": 11196,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Stiletto",
-                "id": 11198,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Interceptor"
-    },
-    {
-        "ships": [
-            {
-                "name": "Anshar",
-                "id": 28848,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Ark",
-                "id": 28850,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Rhea",
-                "id": 28844,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Nomad",
-                "id": 28846,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Jump Freighter"
-    },
-    {
-        "ships": [
-            {
-                "name": "Procurer",
-                "id": 17480,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Covetor",
-                "id": 17476,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Retriever",
-                "id": 17478,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Mining Barge"
-    },
-    {
-        "ships": [
-            {
-                "name": "Huginn",
-                "id": 11961,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Lachesis",
-                "id": 11971,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Curse",
-                "id": 20125,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Rook",
-                "id": 11959,
-                "category": "inventory_type"
-            }
-        ],
-        "name": "Combat Recon Ship"
-    },
-    {
-        "ships": [
-            {
                 "name": "Drake Navy Issue",
                 "id": 33153,
                 "category": "inventory_type"
@@ -1712,142 +812,392 @@
     {
         "ships": [
             {
-                "name": "Pacifier",
-                "id": 44993,
+                "name": "Occator",
+                "id": 12745,
                 "category": "inventory_type"
             },
             {
-                "name": "Helios",
-                "id": 11172,
+                "name": "Bustard",
+                "id": 12731,
                 "category": "inventory_type"
             },
             {
-                "name": "Caedes",
-                "id": 42246,
+                "name": "Mastodon",
+                "id": 12747,
                 "category": "inventory_type"
             },
             {
-                "name": "Cheetah",
-                "id": 11182,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Anathema",
-                "id": 11188,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Chremoas",
-                "id": 33397,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Buzzard",
-                "id": 11192,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Hydra",
-                "id": 48636,
+                "name": "Impel",
+                "id": 12753,
                 "category": "inventory_type"
             }
         ],
-        "name": "Covert Ops"
+        "name": "Deep Space Transport"
     },
     {
         "ships": [
             {
-                "name": "Golem Kaalakiota Edition",
-                "id": 34233,
+                "name": "Prospect",
+                "id": 33697,
                 "category": "inventory_type"
             },
             {
-                "name": "Kronos Quafe Edition",
-                "id": 34243,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Kronos Inner Zone Shipping Edition",
-                "id": 34245,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Golem",
-                "id": 28710,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Kronos Police Edition",
-                "id": 34241,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Paladin Blood Raider Edition",
-                "id": 34219,
-                "category": "inventory_type"
-            },
-            {
-                "name": "GFX Test Vargur 2/2",
-                "id": 47728,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Paladin Kador Edition",
-                "id": 34221,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Paladin Tash-Murkon Edition",
-                "id": 34223,
-                "category": "inventory_type"
-            },
-            {
-                "name": "GFX Test Vargur 1/2",
-                "id": 47727,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vargur Nefantar Edition",
-                "id": 34257,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Paladin",
-                "id": 28659,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Kronos",
-                "id": 28661,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vargur Krusual Edition",
-                "id": 34255,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Golem Guristas Edition",
-                "id": 34231,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vargur",
-                "id": 28665,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Vargur Justice Edition",
-                "id": 34253,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Golem Nugoeihuvi Edition",
-                "id": 34235,
+                "name": "Endurance",
+                "id": 37135,
                 "category": "inventory_type"
             }
         ],
-        "name": "Marauder"
+        "name": "Expedition Frigate"
+    },
+    {
+        "ships": [
+            {
+                "name": "Manticore",
+                "id": 12032,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nemesis",
+                "id": 11377,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Hound",
+                "id": 12034,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Virtuoso",
+                "id": 45530,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Purifier",
+                "id": 12038,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Stealth Bomber"
+    },
+    {
+        "ships": [
+            {
+                "name": "Hel",
+                "id": 22852,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nyx",
+                "id": 23913,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nation",
+                "id": 3628,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Wyvern",
+                "id": 23917,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Aeon",
+                "id": 23919,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vendetta",
+                "id": 42125,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Revenant",
+                "id": 3514,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Supercarrier"
+    },
+    {
+        "ships": [
+            {
+                "name": "Ashimmu",
+                "id": 17922,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Guardian-Vexor",
+                "id": 11011,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vexor Quafe Edition",
+                "id": 34445,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Caracal Wiyrkomi Edition",
+                "id": 33645,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stratios Emergency Responder",
+                "id": 33553,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Scythe Fleet Issue",
+                "id": 29336,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Augoror Navy Issue",
+                "id": 29337,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Orthrus",
+                "id": 33818,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stabber Nefantar Edition",
+                "id": 33647,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Osprey Navy Issue",
+                "id": 29340,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Victorieux Luxury Yacht",
+                "id": 34590,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Exequror Navy Issue",
+                "id": 29344,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Maller",
+                "id": 624,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vedmak",
+                "id": 47270,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stabber Krusual Edition",
+                "id": 33649,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Thorax Aliastra Edition",
+                "id": 33651,
+                "category": "inventory_type"
+            },
+            {
+                "name": "毒蜥级YC117年特别版",
+                "id": 34475,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Omen Navy Issue",
+                "id": 17709,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Rodiva",
+                "id": 49712,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stabber Fleet Issue",
+                "id": 17713,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Gila",
+                "id": 17715,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Phantasm",
+                "id": 17718,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cynabal",
+                "id": 17720,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vigilant",
+                "id": 17722,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stratios",
+                "id": 33470,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Thorax Inner Zone Shipping Edition",
+                "id": 33653,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vexor Navy Issue",
+                "id": 17843,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Test Site Maller",
+                "id": 52267,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Omen",
+                "id": 2006,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Opux Dragoon Yacht",
+                "id": 25560,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Caracal Navy Issue",
+                "id": 17634,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Omen Kador Edition",
+                "id": 33639,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Omen Tash-Murkon Edition",
+                "id": 33641,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Caracal Nugoeihuvi Edition",
+                "id": 33643,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Osprey",
+                "id": 620,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Caracal",
+                "id": 621,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stabber",
+                "id": 622,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Moa",
+                "id": 623,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Concord Police Cruiser",
+                "id": 1904,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Augoror",
+                "id": 625,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vexor",
+                "id": 626,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Thorax",
+                "id": 627,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Arbitrator",
+                "id": 628,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Rupture",
+                "id": 629,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Bellicose",
+                "id": 630,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Scythe",
+                "id": 631,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Blackbird",
+                "id": 632,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Celestis",
+                "id": 633,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Exequror",
+                "id": 634,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Opux Luxury Yacht",
+                "id": 635,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Cruiser"
+    },
+    {
+        "ships": [
+            {
+                "name": "Tengu",
+                "id": 29984,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Legion",
+                "id": 29986,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Proteus",
+                "id": 29988,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Loki",
+                "id": 29990,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Strategic Cruiser"
     },
     {
         "ships": [
@@ -1958,6 +1308,126 @@
             }
         ],
         "name": "Industrial"
+    },
+    {
+        "ships": [
+            {
+                "name": "Svipul",
+                "id": 34562,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Hecate",
+                "id": 35683,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Jackdaw",
+                "id": 34828,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Confessor",
+                "id": 34317,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Tactical Destroyer"
+    },
+    {
+        "ships": [
+            {
+                "name": "Retribution",
+                "id": 11393,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Dagger",
+                "id": 12036,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vengeance",
+                "id": 11365,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Jaguar",
+                "id": 11400,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ishkur",
+                "id": 12042,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Wolf",
+                "id": 11371,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Enyo",
+                "id": 12044,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Blade",
+                "id": 11373,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Erinye",
+                "id": 11375,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Utu",
+                "id": 2834,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Hawk",
+                "id": 11379,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cambion",
+                "id": 32788,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Harpy",
+                "id": 11381,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Gatherer",
+                "id": 11383,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nergal",
+                "id": 52250,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Freki",
+                "id": 32207,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Malice",
+                "id": 3516,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kishar",
+                "id": 11389,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Assault Frigate"
     },
     {
         "ships": [
@@ -2312,57 +1782,697 @@
     {
         "ships": [
             {
-                "name": "Rorqual",
-                "id": 28352,
+                "name": "Kitsune",
+                "id": 11194,
                 "category": "inventory_type"
             },
             {
-                "name": "Rorqual ORE Development Edition",
-                "id": 33687,
+                "name": "Hyena",
+                "id": 11387,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Sentinel",
+                "id": 11190,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Keres",
+                "id": 11174,
                 "category": "inventory_type"
             }
         ],
-        "name": "Capital Industrial Ship"
+        "name": "Electronic Attack Ship"
     },
     {
         "ships": [
             {
-                "name": "Rabisu",
-                "id": 42245,
+                "name": "Bifrost",
+                "id": 37480,
                 "category": "inventory_type"
             },
             {
-                "name": "Zarmazd",
-                "id": 49713,
+                "name": "Pontifex",
+                "id": 37481,
                 "category": "inventory_type"
             },
             {
-                "name": "Scimitar",
-                "id": 11978,
+                "name": "Stork",
+                "id": 37482,
                 "category": "inventory_type"
             },
             {
-                "name": "Basilisk",
-                "id": 11985,
+                "name": "Magus",
+                "id": 37483,
                 "category": "inventory_type"
             },
             {
-                "name": "Guardian",
-                "id": 11987,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Oneiros",
-                "id": 11989,
-                "category": "inventory_type"
-            },
-            {
-                "name": "Etana",
-                "id": 32790,
+                "name": "Draugur",
+                "id": 52254,
                 "category": "inventory_type"
             }
         ],
-        "name": "Logistics"
+        "name": "Command Destroyer"
+    },
+    {
+        "ships": [
+            {
+                "name": "Devoter",
+                "id": 12017,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Fiend",
+                "id": 35781,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Onyx",
+                "id": 11995,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Broadsword",
+                "id": 12013,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Phobos",
+                "id": 12021,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Heavy Interdiction Cruiser"
+    },
+    {
+        "ships": [
+            {
+                "name": "Aliastra Catalyst",
+                "id": 32848,
+                "category": "inventory_type"
+            },
+            {
+                "name": "InterBus Catalyst",
+                "id": 32840,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Inner Zone Shipping Catalyst",
+                "id": 32844,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Intaki Syndicate Catalyst",
+                "id": 32842,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nefantar Thrasher",
+                "id": 33099,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Coercer",
+                "id": 16236,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Talwar",
+                "id": 32878,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cormorant",
+                "id": 16238,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Sunesis",
+                "id": 42685,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Catalyst",
+                "id": 16240,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Algos",
+                "id": 32872,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Thrasher",
+                "id": 16242,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Quafe Catalyst",
+                "id": 32846,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Corax",
+                "id": 32876,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Coercer Blood Raiders Edition",
+                "id": 33879,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kikimora",
+                "id": 49710,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cormorant Guristas Edition",
+                "id": 33881,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Thrasher Thukker Tribe Edition",
+                "id": 33883,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Dragoon",
+                "id": 32874,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Catalyst Serpentis Edition",
+                "id": 33877,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Destroyer"
+    },
+    {
+        "ships": [
+            {
+                "name": "Bowhead",
+                "id": 34328,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Charon",
+                "id": 20185,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Obelisk",
+                "id": 20187,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Fenrir",
+                "id": 20189,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Providence",
+                "id": 20183,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Freighter"
+    },
+    {
+        "ships": [
+            {
+                "name": "Porpoise",
+                "id": 42244,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Orca ORE Development Edition",
+                "id": 33685,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Orca",
+                "id": 28606,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Industrial Command Ship"
+    },
+    {
+        "ships": [
+            {
+                "name": "Astarte",
+                "id": 22466,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Claymore",
+                "id": 22468,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Nighthawk",
+                "id": 22470,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Eos",
+                "id": 22442,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Sleipnir",
+                "id": 22444,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vulture",
+                "id": 22446,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Absolution",
+                "id": 22448,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Damnation",
+                "id": 22474,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Command Ship"
+    },
+    {
+        "ships": [
+            {
+                "name": "Hulk",
+                "id": 22544,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Skiff",
+                "id": 22546,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Mackinaw ORE Development Edition",
+                "id": 33683,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Mackinaw",
+                "id": 22548,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Exhumer"
+    },
+    {
+        "ships": [
+            {
+                "name": "Zealot",
+                "id": 12003,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ishtar",
+                "id": 12005,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Eagle",
+                "id": 12011,
+                "category": "inventory_type"
+            },
+            {
+                "name": "银鹰级YC117年特别版",
+                "id": 34477,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Muninn",
+                "id": 12015,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Mimir",
+                "id": 32209,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Sacrilege",
+                "id": 12019,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Adrestia",
+                "id": 2836,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Deimos",
+                "id": 12023,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cerberus",
+                "id": 11993,
+                "category": "inventory_type"
+            },
+            {
+                "name": "伊什塔级YC117年特别版",
+                "id": 34479,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ikitursa",
+                "id": 52252,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vangel",
+                "id": 3518,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vagabond",
+                "id": 11999,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Heavy Assault Cruiser"
+    },
+    {
+        "ships": [
+            {
+                "name": "Procurer",
+                "id": 17480,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Covetor",
+                "id": 17476,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Retriever",
+                "id": 17478,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Mining Barge"
+    },
+    {
+        "ships": [
+            {
+                "name": "Dagon",
+                "id": 42242,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Apostle",
+                "id": 37604,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Minokawa",
+                "id": 37605,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Lif",
+                "id": 37606,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ninazu",
+                "id": 37607,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Loggerhead",
+                "id": 45645,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Venerable",
+                "id": 42133,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Force Auxiliary"
+    },
+    {
+        "ships": [
+            {
+                "name": "Sabre",
+                "id": 22456,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Eris",
+                "id": 22460,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Flycatcher",
+                "id": 22464,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Heretic",
+                "id": 22452,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Interdictor"
+    },
+    {
+        "ships": [
+            {
+                "name": "Athanor",
+                "id": 35835,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Tatara",
+                "id": 35836,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Refinery"
+    },
+    {
+        "ships": [
+            {
+                "name": "Golem Kaalakiota Edition",
+                "id": 34233,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kronos Quafe Edition",
+                "id": 34243,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kronos Inner Zone Shipping Edition",
+                "id": 34245,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Golem",
+                "id": 28710,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kronos Police Edition",
+                "id": 34241,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Paladin Blood Raider Edition",
+                "id": 34219,
+                "category": "inventory_type"
+            },
+            {
+                "name": "GFX Test Vargur 2/2",
+                "id": 47728,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Paladin Kador Edition",
+                "id": 34221,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Paladin Tash-Murkon Edition",
+                "id": 34223,
+                "category": "inventory_type"
+            },
+            {
+                "name": "GFX Test Vargur 1/2",
+                "id": 47727,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vargur Nefantar Edition",
+                "id": 34257,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Paladin",
+                "id": 28659,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Kronos",
+                "id": 28661,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vargur Krusual Edition",
+                "id": 34255,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Golem Guristas Edition",
+                "id": 34231,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vargur",
+                "id": 28665,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vargur Justice Edition",
+                "id": 34253,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Golem Nugoeihuvi Edition",
+                "id": 34235,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Marauder"
+    },
+    {
+        "ships": [
+            {
+                "name": "Huginn",
+                "id": 11961,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Lachesis",
+                "id": 11971,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Curse",
+                "id": 20125,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Rook",
+                "id": 11959,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Combat Recon Ship"
+    },
+    {
+        "ships": [
+            {
+                "name": "Molok",
+                "id": 42241,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Vanquisher",
+                "id": 42126,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Avatar",
+                "id": 11567,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Komodo",
+                "id": 45649,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Leviathan",
+                "id": 3764,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ragnarok",
+                "id": 23773,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Erebus",
+                "id": 671,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Titan"
+    },
+    {
+        "ships": [
+            {
+                "name": "Arazu",
+                "id": 11969,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Enforcer",
+                "id": 44995,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Chameleon",
+                "id": 33675,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Moracha",
+                "id": 33395,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Falcon",
+                "id": 11957,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Rapier",
+                "id": 11963,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Pilgrim",
+                "id": 11965,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Victor",
+                "id": 45531,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Tiamat",
+                "id": 48635,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Force Recon Ship"
     },
     {
         "ships": [
@@ -2397,6 +2507,81 @@
     {
         "ships": [
             {
+                "name": "Taranis",
+                "id": 11200,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Ares",
+                "id": 11202,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Imp",
+                "id": 35779,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Crow",
+                "id": 11176,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Whiptail",
+                "id": 33673,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Raptor",
+                "id": 11178,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Crusader",
+                "id": 11184,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Malediction",
+                "id": 11186,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Claw",
+                "id": 11196,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Stiletto",
+                "id": 11198,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Interceptor"
+    },
+    {
+        "ships": [
+            {
+                "name": "Raitaru",
+                "id": 35825,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Azbel",
+                "id": 35826,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Sotiyo",
+                "id": 35827,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Engineering Complex"
+    },
+    {
+        "ships": [
+            {
                 "name": "Panther",
                 "id": 22440,
                 "category": "inventory_type"
@@ -2423,5 +2608,50 @@
             }
         ],
         "name": "Black Ops"
+    },
+    {
+        "ships": [
+            {
+                "name": "Pacifier",
+                "id": 44993,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Helios",
+                "id": 11172,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Caedes",
+                "id": 42246,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Cheetah",
+                "id": 11182,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Anathema",
+                "id": 11188,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Chremoas",
+                "id": 33397,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Buzzard",
+                "id": 11192,
+                "category": "inventory_type"
+            },
+            {
+                "name": "Hydra",
+                "id": 48636,
+                "category": "inventory_type"
+            }
+        ],
+        "name": "Covert Ops"
     }
 ]

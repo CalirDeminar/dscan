@@ -49,7 +49,16 @@ defmodule Dscan.Lookup do
       jump_freighter: 902,
       combat_recon: 906,
       industrial_command_ship: 941,
-      strategic_cruiser: 963
+      strategic_cruiser: 963,
+      logistics_frigates: 1527,
+      tactical_destroyer: 1305,
+      citadel: 1657,
+      engineering_complex: 1404,
+      refinery: 1406,
+      command_destroyer: 1534,
+      expedition_frigate: 1283,
+      force_aux: 1538,
+      flag_cruiser: 1972
     }
 
     ship_types

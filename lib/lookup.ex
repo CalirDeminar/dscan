@@ -1,5 +1,4 @@
 defmodule Dscan.Lookup do
-
   @ship_cat_path "ship_categories.json"
   @ship_lookup_path "ship_lookup.json"
 
@@ -11,7 +10,11 @@ defmodule Dscan.Lookup do
   end
 
   def lookup_types(ids) do
-    HTTPoison.post!("https://esi.evetech.net/latest/universe/names/?datasource=tranquility", ids |> inspect(limit: 500), [{"Content-Type", "application/json"}]).body
+    HTTPoison.post!(
+      "https://esi.evetech.net/latest/universe/names/?datasource=tranquility",
+      ids |> inspect(limit: 500),
+      [{"Content-Type", "application/json"}]
+    ).body
     |> Poison.decode!()
   end
 
@@ -63,10 +66,11 @@ defmodule Dscan.Lookup do
 
     ship_types
     |> Enum.map(fn element ->
-      result = 
+      result =
         element
         |> elem(1)
         |> lookup_group()
+
       %{name: result["name"], ships: lookup_types(result["types"])}
     end)
   end
@@ -75,17 +79,18 @@ defmodule Dscan.Lookup do
     categories = File.read!(@ship_cat_path) |> Poison.decode!()
 
     categories
-    |> Enum.reduce(%{}, fn category, acc -> 
+    |> Enum.reduce(%{}, fn category, acc ->
       Enum.reduce(category["ships"], acc, fn ship, acc_two ->
         IO.inspect(ship)
         IO.inspect(category)
+
         if ship["name"] && category["name"] do
           acc_two
           |> Map.put_new(ship["name"], category["name"])
         else
           acc_two
         end
-        end)
+      end)
     end)
   end
 end
